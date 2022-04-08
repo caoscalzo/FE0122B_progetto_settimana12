@@ -1,0 +1,5 @@
+
+<div class="info bg bg-warning" *ngIf="user$|async as user"  >
+  <p>Nome: {{user.user.name}}</p>
+  <p>Email: {{user.user.email}}</p>
+</div>

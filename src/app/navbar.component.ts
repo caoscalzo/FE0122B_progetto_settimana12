@@ -18,7 +18,7 @@ import { AuthService } from './auth/auth.service';
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-          <a class="navbar-brand" href="#">Parmi_TV</a>
+          <a class="navbar-brand" href="#">NETTFLIXE</a>
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
             <li class="nav-item">
               <a
